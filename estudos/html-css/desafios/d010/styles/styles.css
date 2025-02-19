@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+:root {
+    --bg-primary: #c5ebd6;
+}
+
+body {
+    background-color: var(--bg-primary);
+}
